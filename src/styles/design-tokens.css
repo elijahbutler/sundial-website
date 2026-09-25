@@ -1,0 +1,32 @@
+/* Sundial application tokens. */
+:root {
+  --page: #f7f7f7;
+  --card: #ffffff;
+  --heading: #000000;
+  --ink: #181825;
+  --muted: #636363;
+  --secondary: #484758;
+  --line: #e8e8ec;
+  --action: #f69251;
+  --action-hover: #f9a66f;
+  --font-heading: "DM Sans Variable", sans-serif;
+  --font-body: "Inter Variable", sans-serif;
+  --text-display: clamp(42px, 5.4vw, 70px);
+  --text-heading: clamp(32px, 4vw, 50px);
+  --text-heading-small: 24px;
+  --text-body: 16px;
+  --text-label: 13px;
+  --tracking-heading: -0.01em;
+  --tracking-body: -0.015em;
+  --leading-display: 1.15;
+  --leading-heading: 1.2;
+  --leading-body: 1.6;
+  --page-width: 1200px;
+  --section-gap: 112px;
+  --card-padding: 24px;
+  --radius: 24px;
+  --radius-inner: 12px;
+  --radius-button: 28px;
+  --radius-nav: 32px;
+  --shadow: 0 2px 3px -2px rgb(24 24 37 / 12%);
+}
